@@ -6,5 +6,5 @@ fun main(args: Array<String>) {
 
 //recursive function; returns factorial of number
 fun factorial(x: Int) :Int {
-    return if (x == 1) number else x*factorial(x-1)
+    return if (x == 1) x else x*factorial(x-1)
 }
