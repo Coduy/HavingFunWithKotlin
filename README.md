@@ -1,2 +1,2 @@
 # HavingFunWithKotlin
-Kotlin testing
+Just some random Kotlin code.
