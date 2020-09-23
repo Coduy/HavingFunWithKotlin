@@ -1,6 +1,7 @@
 
 fun main(args: Array<String>) {
-    val number = 4
+    //Edit number as needed
+    val number = 8
     println("Result is ${factorial(number)}")
 }
 
